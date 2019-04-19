@@ -56,8 +56,25 @@ NOTE: Minutes can be useful for disseminating information to members who can’t
 
 Only registered UCSD students may hold office in the organization. Only registered UCSD students may vote in elections for the selection of the organization’s officers.
 
-[Insert information about officer positions and selection process here]
+### Officers
 
+[Name of organization] would have the following officers on the board:
+
+- *President*
+  - Oversees all programs, events, and services created by the club
+  
+- *Project Chair*
+  - Oversees any and all projects, packages, or 
+  
+- *Workshop Chair*
+  -
+  
+- *Events Chair*
+  -
+
+### Elections/Appointments
+
+[TODO]
 ```
 Helpful questions: 
 How many officers are there? 
