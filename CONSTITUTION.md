@@ -29,17 +29,10 @@ What will organization members get out of being a part of this organization?
 
 ## Article IV. Requirements for Membership*
 
-[Insert information about requirements to be part of your org here]
+Any UC San Diego undergraduate student may be a member of [Name of organization]. No fees are required. 
 
-```
-Helpful questions:
-What dues or fees are required for membership, if any? If dues are required they MUST be included in the constitution.
-Who is eligible for membership? 
-Are there any restrictions? 
-How does one become a member? 
-How are members identified? 
-Can a member remain in the organization if she/he fails to pay dues?
-```
+To become a member, a student must demonstrate interest to the [TODO club officer] each quarter. The [TODO club officer] will keep track of all students who have demonstrated intest, and they will all be members for that quarter. Each member must re-new their interest every quarter to continue being a member. 
+
 
 ## Article V. Frequency of Organization Meetings*
 
