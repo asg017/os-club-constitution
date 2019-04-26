@@ -56,8 +56,40 @@ NOTE: Minutes can be useful for disseminating information to members who can’t
 
 Only registered UCSD students may hold office in the organization. Only registered UCSD students may vote in elections for the selection of the organization’s officers.
 
-[Insert information about officer positions and selection process here]
+### Officers
 
+[Name of organization] would have the following officers on the board:
+
+- *President*
+  - Ensures the mission of the club is being properly executed and followed by the club's board and general members
+  - Oversees all programs, events, and services created by the club
+  - Oversees any collaboration and communcation with others organizations
+  
+- *Project Chair*
+  - Ensures all project-related programs, events, or services properly follow the club's mission statement
+  - Oversees any and all projects or packages owned by the organization
+  - Ensures all project have the necessary resources to be sucessful
+  - When necessary, appoints members as "Project Leads" to lead a certain project (with approval of the President)
+    - Project Leads must be a member of [Name of organization]
+    - Project Leads must be appointed for a set time period (e.g. 1 quarter, 2 quarters, etc.)
+    - Project Leads can have their position removed if the President and Project Chair deems that they do not sufficiently execute the club's mission in their work with the Project
+    
+  
+- *Workshop Chair*
+  - Hosts, develops, and assists with workshops that teach people about open source, practices, tools, or programs
+  - Ensures all workshops hosted by the club follow the club's mission statement
+  - Works with the Project Chair to develop workshops for project-specific topics
+  - Hosts, at minimum, 1 workshop per quarter designed for people who are new to open source
+  
+- *Events Chair*
+  - Ensures all events hosted by the club follows the club's mission statement
+  - Works with the President to develop events with other outside organizations
+  - Ensures all events are properly promoted to the UC San Diego student body
+  - Hosts, at minimum, 1 event per quarter designed for people who are new top open source
+
+### Elections/Appointments
+
+[TODO]
 ```
 Helpful questions: 
 How many officers are there? 
