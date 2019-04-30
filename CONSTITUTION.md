@@ -95,6 +95,11 @@ Only registered UCSD students may hold office in the organization. Only register
   - Ensures all club-related activity have proper room reservations
   - Keeps records of all programs, events, and services offered by the club, and makes it available to the public
   - Takes detailed notes of all board meetings, and makes them available to all club members
+  
+- *PR Chair*
+  - Ensures proper student community outreach.
+  - In charge of handling marketing through social media, flyers, tabling
+  - Develops the club's brand, and design ideology in collaboration with other members
 
 ### Elections/Appointments
 
