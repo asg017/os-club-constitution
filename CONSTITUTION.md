@@ -82,17 +82,20 @@ Only registered UCSD students may hold office in the organization. Only register
 
 ### Elections/Appointments
 
-[TODO]
-```
-Helpful questions: 
-How many officers are there? 
-What are their titles and duties? 
-Will the officers constitute an executive committee? Description of any standing committees might be included here. 
-How are officers elected? 
-When are they elected (month), and for what period? 
-Who is eligible for office? 
-When do officers assume their positions? 
-How are officers replaced/removed?
+Eligibility
+  - Any undergraduate UCSD student is eligible to run for any position.
+
+
+Application Process
+  - The election process shall start with a description and list of board positions, their descriptions and a summary of expected responsibilities. 
+  - Applicants will have the ability to apply to a fixed number of positions to be decided by the board.
+
+Decision Process
+  - The board will screen the applications and select candidates for interviews, after which they must arrive at a vote which must be strictly greater than a 50% majority vote. In the event of a failed appointment to a position, a re-vote must happen. 
+  - If a re-vote fails thrice, then the person with the largest proportion of votes will be appointed. If there is a tie in such a case, the appointment fails and the position will be dissolved.
+
+Miscl.
+  - Current positions can be found under the Article 6 of the constitution.
 ```
 
 ## Article VII. Risk Management*
