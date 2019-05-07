@@ -12,16 +12,10 @@ The organization shall be called [Name of the organization] at UCSD.
 NOTE: A registered campus/student organization shall not use the name of the University of California or abbreviations thereof as part of its name except in accordance with the campus regulations. The geographical designation “at UCSD” may be used by any campus/student organization as part of its name without obtaining special approval. The full name of the organization should be used throughout this document.
 ```
 
-## Article II. Statement of Purpose*s
+## Article II. Statement of Purpose
 
-[Insert information about your org’s purpose here]
+The mission of [Name of the organization] is to build an inclusive open source community at UC San Diego.
 
-```
-Helpful questions:
-What is the goal of the organization?
-Will the organization seek to promote a specific issue or topic?
-What will organization members get out of being a part of this organization?
-```
 
 ## Article III. Nonprofit Statement*
 
