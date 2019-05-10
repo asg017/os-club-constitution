@@ -31,7 +31,11 @@ What will organization members get out of being a part of this organization?
 
 Any UC San Diego undergraduate student may be a member of [Name of organization]. No fees are required. 
 
-To become a member, a student must demonstrate interest to the [TODO club officer] each quarter. The [TODO club officer] will keep track of all students who have demonstrated intest, and they will all be members for that quarter. Each member must re-new their interest every quarter to continue being a member. 
+To become a member, a student must demonstrate interest to the [TODO club officer] each quarter. The [TODO club officer] will keep track of all students who have demonstrated interest, and they will all be members for that quarter. Each member must re-new their interest every quarter to continue being a member. 
+
+Additionally, each member must adhere to the Code of Conduct. Should a member violate the Code of Conduct, their privileges including their membership could be revoked based upon the majority decision reached by the entirety of the board after a hearing with said member. If officers are not present for the hearing, their vote defaults to clemency. If the member being reviewed is a board member, the hearing process still occurs but the board member being reviewed does not have any input on the decision.
+
+Updates to the Code of Conduct can be made by a majority decision reached by the board.
 
 
 ## Article V. Frequency of Organization Meetings*
