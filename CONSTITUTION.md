@@ -188,12 +188,4 @@ NOTE: If your organization has an off-campus account, it is recommended that you
 ```
 
 ## Article X. Affiliation with Other Groups
-
-[Insert information about affiliation with other groups here.]
-
-```
-Helpful questions: 
-Are there any other groups your organization will be affiliated with at the local, state, national, or international level?
-What does this affiliation mean for your organization members?
-Does affiliation come with any additional requirements of your organization or its members? If so, what are they?
-```
+Open Source at UCSD is an independent organization local to this campus. As such, it has no affiliation with any outside groups.
