@@ -6,11 +6,8 @@ When completing the Student Organization Registration Forms on-line, all student
 
 ## Article I. Name of Student Organization*
 
-The organization shall be called [Name of the organization] at UCSD. 
+The organization shall be called Open Source at UCSD. 
 
-```
-NOTE: A registered campus/student organization shall not use the name of the University of California or abbreviations thereof as part of its name except in accordance with the campus regulations. The geographical designation “at UCSD” may be used by any campus/student organization as part of its name without obtaining special approval. The full name of the organization should be used throughout this document.
-```
 
 ## Article II. Statement of Purpose*s
 
@@ -25,11 +22,11 @@ What will organization members get out of being a part of this organization?
 
 ## Article III. Nonprofit Statement*
 
-[Name of the organization] at UCSD is a non-profit student organization. 
+Open Source at UCSD is a non-profit student organization. 
 
 ## Article IV. Requirements for Membership*
 
-Any UC San Diego undergraduate student may be a member of [Name of organization]. No fees are required. 
+Any UC San Diego undergraduate student may be a member of Open Source at UCSD. No fees are required. 
 
 To become a member, a student must demonstrate interest to the [TODO club officer] each quarter. The [TODO club officer] will keep track of all students who have demonstrated interest, and they will all be members for that quarter. Each member must re-new their interest every quarter to continue being a member. 
 
@@ -53,9 +50,28 @@ NOTE: Minutes can be useful for disseminating information to members who can’t
 
 Only registered UCSD students may hold office in the organization. Only registered UCSD students may vote in elections for the selection of the organization’s officers.
 
+When an officer is, for whichever reason and in whichever manner, no longer a physical member of the OpenSource
+club at UC San Diego, the committee must arrange for two voting sessions in which all members of the club must
+be physically present. Any member who does not hold an officer position is eligible to run for the position.
+The member who results in holding the position after the two voting sessions must have their name placed in 
+the current record of official club committee information.
+The two stages will be: 
+
+1) Vote for exactly one the position contestants of the club who you feel would be a good fit for the no longer held officer
+position as well as sufficiently being able to manage this new duty concurrently with their current duties.
+
+2)From the potential contestants from the first voting session, one final member must be voted for. This potential
+castie must win by the majority vote and no other voting system. In the case of a tie, recursively flip a coin
+until only one member is chosen for the officer position. 
+
+In the case of attempting to remove an officer from the club, one voting session must be held. In this voting session,
+a mimimum of 50% consensus must be obtain to formally remove the officer and remove their information from the current
+record of official club committee information.
+
+
 ### Officers
 
-[Name of organization] would have the following officers on the board:
+Open Source at UCSD would have the following officers on the board:
 
 - *President*
   - Ensures the mission of the club is being properly executed and followed by the club's board and general members
@@ -67,7 +83,7 @@ Only registered UCSD students may hold office in the organization. Only register
   - Oversees any and all projects or packages owned by the organization
   - Ensures all project have the necessary resources to be sucessful
   - When necessary, appoints members as "Project Leads" to lead a certain project (with approval of the President)
-    - Project Leads must be a member of [Name of organization]
+    - Project Leads must be a member of Open Source at UCSD
     - Project Leads must be appointed for a set time period (e.g. 1 quarter, 2 quarters, etc.)
     - Project Leads can have their position removed if the President and Project Chair deems that they do not sufficiently execute the club's mission in their work with the Project
     
@@ -114,9 +130,9 @@ Miscl.
 
 ## Article VII. Risk Management*
 
-[Name of the organization] at UCSD is a registered student organization at the University of California, San Diego, but not part of the University itself. 
+Open Source at UCSD is a registered student organization at the University of California, San Diego, but not part of the University itself. 
 
-[Name of the organization] at UCSD understands that the University does not assume legal liability for the actions of the organization.
+Open Source at UCSD understands that the University does not assume legal liability for the actions of the organization.
 
 [Describe possible risks associated with your organization’s activities here.]
 
@@ -132,7 +148,7 @@ Will your organization work with minors or the elderly? If yes, you must include
 
 ## Article VII. Section 1. In Case of Interaction with Minors and/or the Elderly
 
-[Name of the organization] at UCSD is aware that all registered student organizations that serve minors or the elderly have access to training on child and elder abuse prevention for its members via the Center for Student Involvement, online or in person (in person by request only). [Name of the organization] will develop plan(s) for activities and events where members will be interacting with minors or the elderly such that members will receive education and/or training on Child Abuse Neglect Reporting Act (CANRA), common sense measures to both avoid child or elder abuse allegations (i.e. avoiding one-on-one situations; working with minors in plain view of others; limiting calls/texts/social media posts or other communications with minors), and how to properly report potential harm or neglect to minors or the elderly with whom they are working.
+Open Source at UCSD is aware that all registered student organizations that serve minors or the elderly have access to training on child and elder abuse prevention for its members via the Center for Student Involvement, online or in person (in person by request only). Open Source will develop plan(s) for activities and events where members will be interacting with minors or the elderly such that members will receive education and/or training on Child Abuse Neglect Reporting Act (CANRA), common sense measures to both avoid child or elder abuse allegations (i.e. avoiding one-on-one situations; working with minors in plain view of others; limiting calls/texts/social media posts or other communications with minors), and how to properly report potential harm or neglect to minors or the elderly with whom they are working.
 
 ```
 Will your organization be involved in providing any kind of medical assistance? If yes, you must include the following statement:
@@ -140,7 +156,7 @@ Will your organization be involved in providing any kind of medical assistance? 
 
 ## Article VII. Section 2. In Case of the Provision of Medical Assistance
 
-In the event that [Name of the organization] at UCSD provides medical assistance to a community, all volunteers will work under the direction of licensed professionals (doctors, nurses, counselors, etc.). The University does not recommend that students provide medical assistance.
+In the event that Open Source at UCSD provides medical assistance to a community, all volunteers will work under the direction of licensed professionals (doctors, nurses, counselors, etc.). The University does not recommend that students provide medical assistance.
 
 ```
 Will your organization be engaged in any international travel? If yes, you must include the following statement:
@@ -148,7 +164,7 @@ Will your organization be engaged in any international travel? If yes, you must 
 
 ## Article VII. Section 3.  In Case of International Travel
 
-[Name of the organization] at UCSD recognizes that the University generally recommends against all international travel by Student Organizations due to the myriad of risks travelers face in foreign countries. Student organizations are discouraged from traveling to foreign countries due to the wide variety of risks involved with foreign travel, and the extensive planning efforts required by the Student Organization’s Members to manage those risks. Security risks and health care services vary widely from one country to another, so thorough research on those topics is especially important.
+Open Source at UCSD recognizes that the University generally recommends against all international travel by Student Organizations due to the myriad of risks travelers face in foreign countries. Student organizations are discouraged from traveling to foreign countries due to the wide variety of risks involved with foreign travel, and the extensive planning efforts required by the Student Organization’s Members to manage those risks. Security risks and health care services vary widely from one country to another, so thorough research on those topics is especially important.
 International travelers are advised to research US State Department Travel Advisories and the CDC Travel Health site and abide by all recommended alerts and warnings, and procure travel insurance with medical coverage that covers their chosen destination because most USA Health Plans are not valid in foreign countries.
 
 ```
@@ -157,7 +173,7 @@ Will your organization handle any hazardous chemicals, materials, equipment or m
 
 ## Article VII. Section 4. In Case of Handling of Hazardous Chemicals, Material, Equipment, and/or Machinery
 
-[Name of the organization] at UCSD recognizes that all student organization activities must be conducted safely, in accordance with all applicable federal, state and local laws. Additionally, [Name of the organization] at UCSD will abide by UC San Diego requirements for students in labs, including policies for minors in UC laboratories, and ensure members receive safety training regarding the use of chemicals and/or machinery before entering the lab. Members must follow any best practices and lab safety protocols for the use of such chemicals, research equipment or machinery, including the appropriate use of Personal Protective Equipment, and should work under close supervision of those trained in the handling of chemicals/use of research equipment or machinery.
+Open Source at UCSD recognizes that all student organization activities must be conducted safely, in accordance with all applicable federal, state and local laws. Additionally, Open Source at UCSD will abide by UC San Diego requirements for students in labs, including policies for minors in UC laboratories, and ensure members receive safety training regarding the use of chemicals and/or machinery before entering the lab. Members must follow any best practices and lab safety protocols for the use of such chemicals, research equipment or machinery, including the appropriate use of Personal Protective Equipment, and should work under close supervision of those trained in the handling of chemicals/use of research equipment or machinery.
 
 ```
 Further articles, if applicable:
