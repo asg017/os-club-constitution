@@ -86,18 +86,31 @@ Only registered UCSD students may hold office in the organization. Only register
 
 ### Elections/Appointments
 
-[TODO]
-```
-Helpful questions: 
-How many officers are there? 
-What are their titles and duties? 
-Will the officers constitute an executive committee? Description of any standing committees might be included here. 
-How are officers elected? 
-When are they elected (month), and for what period? 
-Who is eligible for office? 
-When do officers assume their positions? 
-How are officers replaced/removed?
-```
+Election by Club Vote
+
+
+
+Eligibility
+  - Any undergraduate UCSD student is eligible to run for any position.
+  - Members who have been active for at least a month at any time, and not been inactive for the entire six months prior to the voting day are eligible voters.
+
+Application Process
+  - The election process shall start with a description and list of board positions, their descriptions and a summary of expected responsibilities. 
+  - Applicants will have the ability to apply to a fixed number of positions to be decided by the board.
+
+
+Decision Process
+  - Those running will have a chance to make their case and press their claim to the position on-line as a document, on which everyone will have a chance to vote. 
+  - For every position, the board will decide a number of nominees, and that number of runners with the most votes will be selected as the nominees. 
+  - These nominees will have appear before those who wish to vote, and make their case. 
+  - Within a certain allocated Q/A time they are expected to answer any questions asked by the voters, moderated by the board.  The board is also free to ask questions.
+  - There must be a pre-determined time limit to ensure everyone has a fair chance at making their case, which may be exceeded by no more than 20% of the allocated time for Q/A. 
+  - Exceeding this limit knowingly will allow the board power to veto the nominee by a majority (strictly more than 50%) vote.
+  - A candidate will be elected to the position if they both have the most votes and strictly exceed a 66% majority vote. In the event of a failed appointment to a position, a re-vote must happen. 
+  - If a re-vote fails thrice, then the person with the largest proportion of votes will be appointed. If there is a tie in such a case, the appointment fails and the position will be dissolved.
+
+Miscl.
+  - Current positions can be found under the Article 6 of the constitution.
 
 ## Article VII. Risk Management*
 
