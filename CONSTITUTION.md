@@ -26,17 +26,14 @@ Open Source at UCSD is a non-profit student organization.
 
 ## Article IV. Requirements for Membership*
 
-[Insert information about requirements to be part of your org here]
+Any UC San Diego undergraduate student may be a member of Open Source at UCSD. No fees are required. 
 
-```
-Helpful questions:
-What dues or fees are required for membership, if any? If dues are required they MUST be included in the constitution.
-Who is eligible for membership? 
-Are there any restrictions? 
-How does one become a member? 
-How are members identified? 
-Can a member remain in the organization if she/he fails to pay dues?
-```
+To become a member, a student must demonstrate interest to the [TODO club officer] each quarter. The [TODO club officer] will keep track of all students who have demonstrated interest, and they will all be members for that quarter. Each member must re-new their interest every quarter to continue being a member. 
+
+Additionally, each member must adhere to the Code of Conduct. Should a member violate the Code of Conduct, their privileges including their membership could be revoked based upon the majority decision reached by the entirety of the board after a hearing with said member. If officers are not present for the hearing, their vote defaults to clemency. If the member being reviewed is a board member, the hearing process still occurs but the board member being reviewed does not have any input on the decision.
+
+Updates to the Code of Conduct can be made by a majority decision reached by the board.
+
 
 ## Article V. Frequency of Organization Meetings*
 
@@ -53,19 +50,6 @@ NOTE: Minutes can be useful for disseminating information to members who can’t
 
 Only registered UCSD students may hold office in the organization. Only registered UCSD students may vote in elections for the selection of the organization’s officers.
 
-[Insert information about officer positions and selection process here]
-
-```
-Helpful questions: 
-How many officers are there? 
-What are their titles and duties? 
-Will the officers constitute an executive committee? Description of any standing committees might be included here. 
-How are officers elected? 
-When are they elected (month), and for what period? 
-Who is eligible for office? 
-When do officers assume their positions? 
-How are officers replaced/removed?
-```
 When an officer is, for whichever reason and in whichever manner, no longer a physical member of the OpenSource
 club at UC San Diego, the committee must arrange for two voting sessions in which all members of the club must
 be physically present. Any member who does not hold an officer position is eligible to run for the position.
@@ -85,6 +69,64 @@ a mimimum of 50% consensus must be obtain to formally remove the officer and rem
 record of official club committee information.
 
 
+### Officers
+
+Open Source at UCSD would have the following officers on the board:
+
+- *President*
+  - Ensures the mission of the club is being properly executed and followed by the club's board and general members
+  - Oversees all programs, events, and services created by the club
+  - Oversees any collaboration and communcation with others organizations
+  
+- *Project Chair*
+  - Ensures all project-related programs, events, or services properly follow the club's mission statement
+  - Oversees any and all projects or packages owned by the organization
+  - Ensures all project have the necessary resources to be sucessful
+  - When necessary, appoints members as "Project Leads" to lead a certain project (with approval of the President)
+    - Project Leads must be a member of Open Source at UCSD
+    - Project Leads must be appointed for a set time period (e.g. 1 quarter, 2 quarters, etc.)
+    - Project Leads can have their position removed if the President and Project Chair deems that they do not sufficiently execute the club's mission in their work with the Project
+    
+  
+- *Workshop Chair*
+  - Hosts, develops, and assists with workshops that teach people about open source, practices, tools, or programs
+  - Ensures all workshops hosted by the club follow the club's mission statement
+  - Works with the Project Chair to develop workshops for project-specific topics
+  - Hosts, at minimum, 1 workshop per quarter designed for people who are new to open source
+  
+- *Events Chair*
+  - Ensures all events hosted by the club follows the club's mission statement
+  - Works with the President to develop events with other outside organizations
+  - Ensures all events are properly promoted to the UC San Diego student body
+  - Hosts, at minimum, 1 event per quarter designed for people who are new top open source
+
+### Elections/Appointments
+
+Election by Club Vote
+
+
+
+Eligibility
+  - Any undergraduate UCSD student is eligible to run for any position.
+  - Members who have been active for at least a month at any time, and not been inactive for the entire six months prior to the voting day are eligible voters.
+
+Application Process
+  - The election process shall start with a description and list of board positions, their descriptions and a summary of expected responsibilities. 
+  - Applicants will have the ability to apply to a fixed number of positions to be decided by the board.
+
+
+Decision Process
+  - Those running will have a chance to make their case and press their claim to the position on-line as a document, on which everyone will have a chance to vote. 
+  - For every position, the board will decide a number of nominees, and that number of runners with the most votes will be selected as the nominees. 
+  - These nominees will have appear before those who wish to vote, and make their case. 
+  - Within a certain allocated Q/A time they are expected to answer any questions asked by the voters, moderated by the board.  The board is also free to ask questions.
+  - There must be a pre-determined time limit to ensure everyone has a fair chance at making their case, which may be exceeded by no more than 20% of the allocated time for Q/A. 
+  - Exceeding this limit knowingly will allow the board power to veto the nominee by a majority (strictly more than 50%) vote.
+  - A candidate will be elected to the position if they both have the most votes and strictly exceed a 66% majority vote. In the event of a failed appointment to a position, a re-vote must happen. 
+  - If a re-vote fails thrice, then the person with the largest proportion of votes will be appointed. If there is a tie in such a case, the appointment fails and the position will be dissolved.
+
+Miscl.
+  - Current positions can be found under the Article 6 of the constitution.
 
 ## Article VII. Risk Management*
 
