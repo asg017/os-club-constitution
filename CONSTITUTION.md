@@ -44,11 +44,7 @@ Will there be a required number of meetings each quarter? Each year?
 Will minutes be taken and/or required for official meetings? 
 NOTE: Minutes can be useful for disseminating information to members who can’t make it, as well as for officially recording organization procedure and decision-making.
 ```
-
-Our organization will meet at least three times a quarter. In each quarter, there will be one general body meeting. 
-General Members: no required meetings
-Board Members: two required meetings
-Meeting minutes will be taken by an appointed board member (secretary) in each board meeting. 
+There will be a quarterly general body meeting for all members, biweekly meetings for board members, and no required meetings for general members. General members will only need to attend meetings for the project/workshop that they signed up for. Meeting minutes will be taken for general body meetings and all board meetings. 
 
 ## Article VI. Qualifications for Holding Office and Methods of Selecting and Replacing Officers*
 
