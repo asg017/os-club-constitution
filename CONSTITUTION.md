@@ -134,50 +134,14 @@ Open Source at UCSD is a registered student organization at the University of Ca
 
 Open Source at UCSD understands that the University does not assume legal liability for the actions of the organization.
 
-[Describe possible risks associated with your organization’s activities here.]
-
-```
-NOTE: Specific language is required if your organization is involved in
-Working with minors or the elderly
-Medical assistance
-International travel
-Handling hazardous chemicals/material/equipment/machinery
-You may also be asked to provide information on how you will manage risk involving issues such as possible injury, including athletic injury, exposure to hazardous materials and/or infectious agents, or other trauma, and what your strategies will be to avoid these risks. We encourage you to use current industry and governmental safety standards/practices to mitigate risks, such as those adopted by a national association. 
-Will your organization work with minors or the elderly? If yes, you must include the following sub-article:
-```
-
 ## Article VII. Section 1. In Case of Interaction with Minors and/or the Elderly
 
 Open Source at UCSD is aware that all registered student organizations that serve minors or the elderly have access to training on child and elder abuse prevention for its members via the Center for Student Involvement, online or in person (in person by request only). Open Source will develop plan(s) for activities and events where members will be interacting with minors or the elderly such that members will receive education and/or training on Child Abuse Neglect Reporting Act (CANRA), common sense measures to both avoid child or elder abuse allegations (i.e. avoiding one-on-one situations; working with minors in plain view of others; limiting calls/texts/social media posts or other communications with minors), and how to properly report potential harm or neglect to minors or the elderly with whom they are working.
 
-```
-Will your organization be involved in providing any kind of medical assistance? If yes, you must include the following statement:
-```
-
-## Article VII. Section 2. In Case of the Provision of Medical Assistance
-
-In the event that Open Source at UCSD provides medical assistance to a community, all volunteers will work under the direction of licensed professionals (doctors, nurses, counselors, etc.). The University does not recommend that students provide medical assistance.
-
-```
-Will your organization be engaged in any international travel? If yes, you must include the following statement:
-```
-
-## Article VII. Section 3.  In Case of International Travel
-
-Open Source at UCSD recognizes that the University generally recommends against all international travel by Student Organizations due to the myriad of risks travelers face in foreign countries. Student organizations are discouraged from traveling to foreign countries due to the wide variety of risks involved with foreign travel, and the extensive planning efforts required by the Student Organization’s Members to manage those risks. Security risks and health care services vary widely from one country to another, so thorough research on those topics is especially important.
-International travelers are advised to research US State Department Travel Advisories and the CDC Travel Health site and abide by all recommended alerts and warnings, and procure travel insurance with medical coverage that covers their chosen destination because most USA Health Plans are not valid in foreign countries.
-
-```
-Will your organization handle any hazardous chemicals, materials, equipment or machinery? If yes, you must include the following statement:
-```
-
-## Article VII. Section 4. In Case of Handling of Hazardous Chemicals, Material, Equipment, and/or Machinery
+## Article VII. Section 2. In Case of Handling of Hazardous Chemicals, Material, Equipment, and/or Machinery
 
 Open Source at UCSD recognizes that all student organization activities must be conducted safely, in accordance with all applicable federal, state and local laws. Additionally, Open Source at UCSD will abide by UC San Diego requirements for students in labs, including policies for minors in UC laboratories, and ensure members receive safety training regarding the use of chemicals and/or machinery before entering the lab. Members must follow any best practices and lab safety protocols for the use of such chemicals, research equipment or machinery, including the appropriate use of Personal Protective Equipment, and should work under close supervision of those trained in the handling of chemicals/use of research equipment or machinery.
 
-```
-Further articles, if applicable:
-```
 
 ## Article VIII. Community Advisor 
 
