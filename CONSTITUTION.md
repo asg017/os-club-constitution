@@ -145,7 +145,8 @@ Open Source at UCSD recognizes that all student organization activities must be 
 
 ## Article VIII. Community Advisor 
 
-[Insert information about community advisor selection and role here.]
+Our club does not belong to a category where a community advisor is required. Since we will not be affiliated with any outside 
+organization or participating in any high-risk activities, we will not select a community advisor.
 
 ```
 NOTE: Community Advisors are required for certain types of student organizations, including
