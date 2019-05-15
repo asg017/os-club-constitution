@@ -148,29 +148,6 @@ Open Source at UCSD recognizes that all student organization activities must be 
 Our club does not belong to a category where a community advisor is required. Since we will not be affiliated with any outside 
 organization or participating in any high-risk activities, we will not select a community advisor.
 
-```
-NOTE: Community Advisors are required for certain types of student organizations, including
-Academic
-Health Profession
-Interfraternity Council (IFC)
-Multicultural Greek Council (MGC)
-Panhellenic Association (PHC)
-Pre-Professional
-
-However, it is strongly recommended that all organizations with external affiliation or engaged in high-risk activities, such as working with minors or the elderly, medical assistance, and/or international travel, seek out a community advisor and formally register that individual. 
-Student organizations seeking official co-curricular record (see https://myccr.ucsd.edu/home.htm) recognition for participation should seek out UCSD faculty or staff community advisors. 
-
-Learn more about community advisors at https://students.ucsd.edu/student-life/involvement/organizations/onestop/community-advisors.html.
-
-```
-
-
-```
-Helpful questions:
-How is the advisor selected? 
-How long will they serve?
-What will their role be?
-```
 
 ## Article IX. Financial Management
 
