@@ -9,16 +9,10 @@ When completing the Student Organization Registration Forms on-line, all student
 The organization shall be called Open Source at UCSD. 
 
 
-## Article II. Statement of Purpose*s
+## Article II. Statement of Purpose
 
-[Insert information about your org’s purpose here]
+The mission of Open Source @ UCSD is to build an inclusive open source community at UC San Diego.
 
-```
-Helpful questions:
-What is the goal of the organization?
-Will the organization seek to promote a specific issue or topic?
-What will organization members get out of being a part of this organization?
-```
 
 ## Article III. Nonprofit Statement*
 
