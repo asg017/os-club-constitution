@@ -152,16 +152,14 @@ organization or participating in any high-risk activities, we will not select a 
 
 ## Article IX. Financial Management
 
-[Insert information about financial management here.]
+Section 1. The Club shall, as it deems necessary, undertake funding for its own purposes. All fundraising shall be conducted in accordance with University Policies.
 
+Section 2. The Treasurer shall receive and distribute Club funds upon the authorization of the President, in accordance with the financial rules and regulations of the University and the laws of the State of California, and make financial reports at all Executive Committee meetings, and at the regular meetings of the Club. 
 
-```
-Helpful questions:
-How will your organization finance its activities? 
-How will any money your organization earns or gathers be handled?
-Will your organization submit a budget to the A.S. or G.S.A. finance committee quarterly?
-NOTE: If your organization has an off-campus account, it is recommended that you include procedures for voting in new designated signers for the account each year, including recording meeting minutes to that effect (these meeting minutes can be used as documentation at the bank). See https://students.ucsd.edu/student-life/involvement/organizations/onestop/financial-processes/bank-accounts.html for more information on off-campus bank accounts.
-```
+Section 3. The Club will not at this time submit a budget to A.S or G.S.A financial committee. 
+
+Section 4. The Club will not at this time have an off-campus account. If such an account was needed, it would be in accordance with the Off-Campus Bank Account guidelines in order to prevent any mismanagement of funds. 
+
 
 ## Article X. Affiliation with Other Groups
 Open Source at UCSD is an independent organization local to this campus. As such, it has no affiliation with any outside groups.
