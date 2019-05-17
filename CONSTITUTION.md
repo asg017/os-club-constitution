@@ -7,7 +7,7 @@ The organization shall be called Open Source at UCSD.
 
 ## Article II. Statement of Purpose
 
-The mission of Open Source @ UCSD is to build an inclusive open source community at UC San Diego.
+The mission of Open Source at UCSD is to build an inclusive open source community at UC San Diego.
 
 
 ## Article III. Nonprofit Statement
@@ -18,7 +18,7 @@ Open Source at UCSD is a non-profit student organization.
 
 Any UC San Diego undergraduate student may be a member of Open Source at UCSD. No fees are required. 
 
-To become a member, a student must demonstrate interest to the [TODO club officer] each quarter. The [TODO club officer] will keep track of all students who have demonstrated interest, and they will all be members for that quarter. Each member must re-new their interest every quarter to continue being a member. 
+To become a member, a student must demonstrate interest to the Secretary each quarter. The Secretary will keep track of all students who have demonstrated interest, and they will all be members for that quarter. Each member must re-new their interest every quarter to continue being a member. 
 
 Additionally, each member must adhere to the Code of Conduct. Should a member violate the Code of Conduct, their privileges including their membership could be revoked based upon the majority decision reached by the entirety of the board after a hearing with said member. If officers are not present for the hearing, their vote defaults to clemency. If the member being reviewed is a board member, the hearing process still occurs but the board member being reviewed does not have any input on the decision.
 
@@ -33,8 +33,7 @@ There will be a quarterly general body meeting for all members, biweekly meeting
 
 Only registered UCSD students may hold office in the organization. Only registered UCSD students may vote in elections for the selection of the organization’s officers.
 
-When an officer is, for whichever reason and in whichever manner, no longer a physical member of the OpenSource
-club at UC San Diego, the committee must arrange for two voting sessions in which all members of the club must
+When an officer is, for whichever reason and in whichever manner, no longer a physical member of the Open Source at UCSD, the committee must arrange for two voting sessions in which all members of the club must
 be physically present. Any member who does not hold an officer position is eligible to run for the position.
 The member who results in holding the position after the two voting sessions must have their name placed in 
 the current record of official club committee information.
