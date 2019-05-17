@@ -14,7 +14,7 @@ NOTE: A registered campus/student organization shall not use the name of the Uni
 
 ## Article II. Statement of Purpose
 
-The mission of [Name of the organization] is to build an inclusive open source community at UC San Diego.
+The mission of Open Source @ UCSD is to build an inclusive open source community at UC San Diego.
 
 
 ## Article III. Nonprofit Statement*
