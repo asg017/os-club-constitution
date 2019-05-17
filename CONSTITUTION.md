@@ -80,7 +80,7 @@ Open Source at UCSD would have the following officers on the board:
   - Ensures all events hosted by the club follows the club's mission statement
   - Works with the President to develop events with other outside organizations
   - Ensures all events are properly promoted to the UC San Diego student body
-  - Hosts, at minimum, 1 event per quarter designed for people who are new top open source
+  - Hosts, at minimum, 1 event per quarter designed for people who are new to open source
 
 - *Treasurer*
   - Ensures funding for all programs, events, and services
@@ -91,9 +91,14 @@ Open Source at UCSD would have the following officers on the board:
   - Keeps records of all programs, events, and services offered by the club, and makes it available to the public
   - Takes detailed notes of all board meetings, and makes them available to all club members
   
-### Elections/Appointments
+- *PR Chair*
+  - Ensures proper student community outreach.
+  - In charge of handling marketing through social media, flyers, tabling
+  - Develops the club's brand, and design ideology in collaboration with other members
 
-Election by Club Vote
+### Elections
+
+Open Source at UCSD will have elections for board members every year in the spring quarter.
 
 
 Eligibility
