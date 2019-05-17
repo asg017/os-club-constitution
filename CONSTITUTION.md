@@ -108,17 +108,17 @@ Applicants will have the ability to apply to a fixed number of positions to be d
 
 Only registered UCSD students may hold office in the organization. Only registered UCSD students may vote in elections for the selection of the organization’s officers.
 
-When an officer is, for whichever reason and in whichever manner, no longer a physical member of the Open Source at UCSD, the committee must arrange for two voting sessions in which all members of the club must
+When an officer is, for whichever reason and in whichever manner, no longer a physical member of the Open Source at UCSD, the officer board must arrange for a new voting sessions in which all members of the club must
 be physically present. Any member who does not hold an officer position is eligible to run for the position.
 The member who results in holding the position after the two voting sessions must have their name placed in 
 the current record of official club committee information.
+
 The two stages will be: 
 
-1) Vote for exactly one the position contestants of the club who you feel would be a good fit for the no longer held officer
-position as well as sufficiently being able to manage this new duty concurrently with their current duties.
+1) Vote for exactly one of the contestants.
 
 2) From the potential contestants from the first voting session, one final member must be voted for. This potential
-castie must win by the majority vote and no other voting system. In the case of a tie, recursively flip a coin
+candidate must win by the majority vote and no other voting system. In the case of a tie, repeatedly flip a coin
 until only one member is chosen for the officer position. 
 
 In the case of attempting to remove an officer from the club, one voting session must be held. In this voting session,
