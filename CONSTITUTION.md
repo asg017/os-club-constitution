@@ -45,6 +45,7 @@ Will there be a required number of meetings each quarter? Each year?
 Will minutes be taken and/or required for official meetings? 
 NOTE: Minutes can be useful for disseminating information to members who can’t make it, as well as for officially recording organization procedure and decision-making.
 ```
+There will be a quarterly general body meeting for all members, biweekly meetings for board members, and no required meetings for general members. Meeting minutes will be taken for general body meetings and all board meetings. 
 
 ## Article VI. Qualifications for Holding Office and Methods of Selecting and Replacing Officers*
 
