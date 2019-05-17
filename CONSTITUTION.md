@@ -173,7 +173,7 @@ What will their role be?
 
 ## Article IX. Financial Management
 
-Section 1. The Club shall, as it deems necessary, undertake fundraisers. funding for it own purposes. All fundraising shall be conducted in accordance with University Policies.
+Section 1. The Club shall, as it deems necessary, undertake funding for its own purposes. All fundraising shall be conducted in accordance with University Policies.
 
 Section 2. The Treasurer shall receive and distribute Club funds upon the authorization of the President, in accordance with the financial rules and regulations of the University and the laws of the State of California, and make financial reports at all Executive Committee meetings, and at the regular meetings of the Club. 
 
