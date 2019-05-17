@@ -1,10 +1,6 @@
-```
-When completing the Student Organization Registration Forms on-line, all student organizations must upload a copy of their constitution. The best constitutions are those that are clear, concise, easily implemented, and include guidelines for all of the group’s essential components. Your constitution will be reviewed by your CSI student organization advisor for key elements and language, and in certain cases you may be asked to provide clarification or further information based on your proposed purpose, activities, or history. In order to expedite the registration process, we have created an optional template for your use. It contains updated language and requirements as mandated by UCSD and CSI policy.
-*All constitutions must contain items listed in Articles 1-7 below. Further articles to consider are listed later on in this document. 
-```
 # Constitution
 
-## Article I. Name of Student Organization*
+## Article I. Name of Student Organization
 
 The organization shall be called Open Source at UCSD. 
 
@@ -14,11 +10,11 @@ The organization shall be called Open Source at UCSD.
 The mission of Open Source @ UCSD is to build an inclusive open source community at UC San Diego.
 
 
-## Article III. Nonprofit Statement*
+## Article III. Nonprofit Statement
 
 Open Source at UCSD is a non-profit student organization. 
 
-## Article IV. Requirements for Membership*
+## Article IV. Requirements for Membership
 
 Any UC San Diego undergraduate student may be a member of Open Source at UCSD. No fees are required. 
 
@@ -29,19 +25,11 @@ Additionally, each member must adhere to the Code of Conduct. Should a member vi
 Updates to the Code of Conduct can be made by a majority decision reached by the board.
 
 
-## Article V. Frequency of Organization Meetings*
+## Article V. Frequency of Organization Meetings
 
-[Insert information about how often your org will meet here. You may include what, if any, rules there may be about holding meetings.]
-
-```
-How often will your organization meet?
-Will there be a required number of meetings each quarter? Each year?
-Will minutes be taken and/or required for official meetings? 
-NOTE: Minutes can be useful for disseminating information to members who can’t make it, as well as for officially recording organization procedure and decision-making.
-```
 There will be a quarterly general body meeting for all members, biweekly meetings for board members, and no required meetings for general members. Meeting minutes will be taken for general body meetings and all board meetings. 
 
-## Article VI. Qualifications for Holding Office and Methods of Selecting and Replacing Officers*
+## Article VI. Qualifications for Holding Office and Methods of Selecting and Replacing Officers
 
 Only registered UCSD students may hold office in the organization. Only registered UCSD students may vote in elections for the selection of the organization’s officers.
 
@@ -55,7 +43,7 @@ The two stages will be:
 1) Vote for exactly one the position contestants of the club who you feel would be a good fit for the no longer held officer
 position as well as sufficiently being able to manage this new duty concurrently with their current duties.
 
-2)From the potential contestants from the first voting session, one final member must be voted for. This potential
+2) From the potential contestants from the first voting session, one final member must be voted for. This potential
 castie must win by the majority vote and no other voting system. In the case of a tie, recursively flip a coin
 until only one member is chosen for the officer position. 
 
@@ -95,10 +83,18 @@ Open Source at UCSD would have the following officers on the board:
   - Ensures all events are properly promoted to the UC San Diego student body
   - Hosts, at minimum, 1 event per quarter designed for people who are new top open source
 
+- *Treasurer*
+  - Ensures funding for all programs, events, and services
+  - In charge of all club expenses, financial reporting, and any club bank account details
+
+- *Secretary*
+  - Ensures all club-related activity have proper room reservations
+  - Keeps records of all programs, events, and services offered by the club, and makes it available to the public
+  - Takes detailed notes of all board meetings, and makes them available to all club members
+  
 ### Elections/Appointments
 
 Election by Club Vote
-
 
 
 Eligibility
